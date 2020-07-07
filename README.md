@@ -1,4 +1,9 @@
-### Hi there 👋
+<p align="center">
+	<src="a/1.gif"><br>
+</p>
+
+springy
+
 
 <!--
 **sprinuko/sprinuko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
