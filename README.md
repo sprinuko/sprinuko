@@ -1,8 +1,6 @@
 <p align="center">
-	<img src="a/1.gif"><br>
+	<img src="https://github.com/sprinuko/sprinuko/raw/master/a/1.gif"><br>
 </p>
-
-sprinuko
 
 springy
 
