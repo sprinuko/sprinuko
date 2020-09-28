@@ -3,3 +3,5 @@
 </p>
 
 https://www.sprinuko.dev
+
+remider to self: remove config file from private discord bot repo and then make public
